@@ -38,7 +38,8 @@
     z-index: 999;
     backdrop-filter: blur(10px);
     width: 1920px;
-    transition: top 0.5s;}
+    transition: top 0.5s;
+}
 
 .header__wraper {
     display: flex;
@@ -81,11 +82,11 @@ li, a {
 .header__nav-item-link:hover::after {
     transform: scaleX(1);
     transform-origin: bottom left;
-}
+  }
 
-  .header__nav-list li {
+.header__nav-list li {
     display: inline-block;
-    padding: 30px 30px 30px 30px;
+    padding: 0 20px;
 }
 
 .nav_icon {

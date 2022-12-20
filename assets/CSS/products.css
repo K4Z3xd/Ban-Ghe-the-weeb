@@ -34,7 +34,8 @@
     z-index: 999;
     backdrop-filter: blur(10px);
     width: 1920px;
-    transition: top 0.5s;}
+    transition: top 0.5s;
+}
 
 .header__wraper {
     display: flex;
@@ -79,15 +80,15 @@ li, a {
     transform-origin: bottom left;
   }
 
-  .header__nav-list li {
+.header__nav-list li {
     display: inline-block;
-    padding: 30px 30px 30px 30px;
+    padding: 0 20px;
 }
 
 .nav_icon {
     padding: 0 12px;
     font-size: 18px;
-    margin-right: 0px;
+    margin-right: 20px;
 }
 .nav_icon:hover {
     color: rgba(255, 255, 255, 0.7);

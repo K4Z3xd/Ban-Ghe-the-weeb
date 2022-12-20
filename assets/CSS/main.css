@@ -78,13 +78,13 @@ li, a {
 
 .header__nav-list li {
     display: inline-block;
-    padding: 30px 30px 30px 30px;
+    padding: 0 20px;
 }
 
 .nav_icon {
     padding: 0 12px;
     font-size: 18px;
-    margin-right: 0px;
+    margin-right: 20px;
 }
 .nav_icon:hover {
     color: rgba(255, 255, 255, 0.7);
@@ -138,7 +138,7 @@ li, a {
 
 .collection-img {
       width: 100%;
-      border-radius: 15px;
+      border-radius: 4px;
       
 }
 
