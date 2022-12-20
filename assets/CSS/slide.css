@@ -9,12 +9,12 @@ html,body {
 }
 
 .wraper {
-    max-width: 1250px;
+    max-width: 1440px;
     margin: auto;
     position: relative;
 }
 .slide {
-    width: 1440px;
+    width: 1400px;
     height: 500px;
 }
  
@@ -23,7 +23,7 @@ html,body {
     height: 100%;
     background-image: url(https://cdn.shopify.com/s/files/1/0591/7006/2395/files/DAS01971.jpg?v=1666775276&width=1600);
     background-repeat: no-repeat;
-    background-size: 1440px 500px;
+    background-size: 1550px 500px;
     position: absolute;
     top:0;
     z-index: 1;
@@ -35,7 +35,7 @@ html,body {
     height: 100%;
     background-image: url(https://cdn.shopify.com/s/files/1/0591/7006/2395/files/noel-hpw-web_4.jpg?v=1671009456&width=1600);
     background-repeat: no-repeat;
-    background-size: 1440px 500px;
+    background-size: 1550px 500px;
     position: absolute;
     top:0;
     z-index: 2;
@@ -47,7 +47,7 @@ html,body {
     height: 100%;
     background-image: url(https://cdn.shopify.com/s/files/1/0591/7006/2395/files/mo-ban-t6produal-hpw.jpg?v=1669880019&width=1600);
     background-repeat: no-repeat;
-    background-size: 1440px 500px;
+    background-size: 1550px 500px;
     position: absolute;
     top:0;
     z-index: 3;
@@ -59,7 +59,7 @@ html,body {
     height: 100%;
     background-image: url(https://cdn.shopify.com/s/files/1/0591/7006/2395/files/MO-BAN-PG02-web-hpw_2.jpg?v=1669371257&width=1600);
     background-repeat: no-repeat;
-    background-size: 1440px 500px;
+    background-size: 1550px 500px;
     position: absolute;
     top:0;
     z-index: 3;
@@ -92,7 +92,7 @@ html,body {
 }
 
 .ra{
-    transition: 1s;                   /*https://www.w3schools.com/css/css3_transitions.asp*/
+    transition: 2s ease-in-out;                   /*https://www.w3schools.com/css/css3_transitions.asp*/
     opacity: 1;                         /*Thuộc tính độ mờ chỉ định độ mờ/độ trong suốt của một phần tử. https://www.w3schools.com/css/css_image_transparency.asp*/
 }
 
@@ -109,7 +109,7 @@ html,body {
     color: white;
     font-weight: bold;
     font-size: 18px;
-    transition: 1.6s ease;
+    transition: 2.5 ease-in-out;
     border-radius: 0 3px 3px 0;
     user-select: none;
   }

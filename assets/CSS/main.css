@@ -78,13 +78,12 @@ li, a {
 
 .header__nav-list li {
     display: inline-block;
-    padding: 0 20px;
+    padding: 020px;
 }
 
 .nav_icon {
-    padding: 0 12px;
+    padding: 12px;
     font-size: 18px;
-    margin-right: 20px;
 }
 .nav_icon:hover {
     color: rgba(255, 255, 255, 0.7);
@@ -121,8 +120,8 @@ li, a {
 .collection-list__header-section {
     height: auto;
     align-items: center;
-    line-height: 2.6;
-    padding: 60px 0;
+    line-height: 2.1;
+    padding: 50px 0px 50px 0px;
     
 }
 /* collection-card */

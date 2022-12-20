@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded",function(){
           slides[vitrislide].nextElementSibling.classList.add('ra');
                  // Đây là then chốt của auto slide nó sẽ chuyển sang cái thằng tiếp theo.
       }
-      },4000)
+      },8000)
   // Tu dong chuyen slide
       for(var i = 0; i < 3; i++){
           nut[i].addEventListener('click',function () {
