@@ -39,6 +39,7 @@
     backdrop-filter: blur(10px);
     width: 1920px;
     transition: top 0.5s;
+    margin-left: -30px;
 }
 
 .header__wraper {
@@ -82,11 +83,11 @@ li, a {
 .header__nav-item-link:hover::after {
     transform: scaleX(1);
     transform-origin: bottom left;
-  }
+}
 
-.header__nav-list li {
+  .header__nav-list li {
     display: inline-block;
-    padding: 0 20px;
+    padding: 30px 30px 30px 30px;
 }
 
 .nav_icon {
