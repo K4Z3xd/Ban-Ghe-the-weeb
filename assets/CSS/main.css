@@ -48,10 +48,6 @@ li, a {
     color: white;
 }
 
-/* .header__logo {
-    margin-left: -35px;
-} */
-
 .header__nav-list {
     list-style: none;
 }
@@ -354,7 +350,7 @@ li, a {
     padding: 18px 30px;
     border-radius: 50px;
 }
-/* .footer */
+/* footer */
 .footer {
     background-color: #000;
 }
