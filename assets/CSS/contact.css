@@ -38,9 +38,7 @@
     z-index: 999;
     backdrop-filter: blur(10px);
     width: 1920px;
-    transition: top 0.5s;
-    margin-left: -30px;
-}
+    transition: top 0.5s;}
 
 .header__wraper {
     display: flex;
