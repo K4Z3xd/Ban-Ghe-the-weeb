@@ -15,15 +15,15 @@ html,body {
 }
 .slide {
     width: 1460px;
-    height: 500px;
+    height: 600px;
 }
  
 .slide_1 {
     width: 100%;
     height: 100%;
-    background-image: url(https://cdn.shopify.com/s/files/1/0591/7006/2395/files/DAS01971.jpg?v=1666775276&width=1600);
+    background-image: url(https://www.ikea.com/global/en/images/slice2_3_4_778c3bf40c.jpg?f=xxl);
     background-repeat: no-repeat;
-    background-size: 1460px 500px;
+    background-size: 1460px 700px;
     position: absolute;
     top:0;
     z-index: 1;
@@ -33,9 +33,9 @@ html,body {
 .slide_2 {
     width: 100%;
     height: 100%;
-    background-image: url(https://cdn.shopify.com/s/files/1/0591/7006/2395/files/noel-hpw-web_4.jpg?v=1671009456&width=1600);
+    background-image: url(https://www.ikea.com/global/en/images/trashcollectionstartpage_154a5a9baf.jpeg?f=g);
     background-repeat: no-repeat;
-    background-size: 1460px 500px;
+    background-size: 1460px 700px;
     position: absolute;
     top:0;
     z-index: 2;
@@ -45,9 +45,9 @@ html,body {
 .slide_3 {
     width: 100%;
     height: 100%;
-    background-image: url(https://cdn.shopify.com/s/files/1/0591/7006/2395/files/mo-ban-t6produal-hpw.jpg?v=1669880019&width=1600);
+    background-image: url(https://www.ikea.com/images/a-black-utespelare-gaming-desk-with-two-screens-a-black-gami-6a92617d63d79995b254975a869ef263.jpg?f=sg);
     background-repeat: no-repeat;
-    background-size: 1460px 500px;
+    background-size: 1460px 700px;
     position: absolute;
     top:0;
     z-index: 3;
@@ -57,9 +57,9 @@ html,body {
 .slide_4 {
     width: 100%;
     height: 100%;
-    background-image: url(https://cdn.shopify.com/s/files/1/0591/7006/2395/files/MO-BAN-PG02-web-hpw_2.jpg?v=1669371257&width=1600);
+    background-image: url(https://www.ikea.com/images/an-utespelare-gaming-chair-and-desk-surrounded-by-a-white-pl-7af31731814a8c772ccc12c8cf452299.jpg?f=sg);
     background-repeat: no-repeat;
-    background-size: 1460px 500px;
+    background-size: 1460px 800px;
     position: absolute;
     top:0;
     z-index: 3;
@@ -69,7 +69,7 @@ html,body {
 .nut {
     position: absolute;
     left: 50%;
-    bottom: -15%;
+    bottom: 5%;
     transform: translateX(-50%);
     z-index: 999;
 }
