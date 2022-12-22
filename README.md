@@ -1,2 +1,2 @@
-# HyperWork web clone
+# Web clone
  for learning web design
